@@ -14,7 +14,7 @@ public class Block{
         bChain.addBlock(d);
         bChain.addBlock(e);
 
-        bChain.printchainpath();
+        bChain.printChain();
     }
 
 }
