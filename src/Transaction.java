@@ -43,7 +43,7 @@ public class Transaction {
         this.time = time;
     }
 
-    public String getSourcename() {
+    public String getSourceName() {
         return sourceName;
     }
 
@@ -92,5 +92,5 @@ public class Transaction {
         this.hash = encoding;
         return encoding;
     }
-
 }
+
