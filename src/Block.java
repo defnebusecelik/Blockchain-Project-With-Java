@@ -4,7 +4,7 @@ public class Block{
 
     public static void main(String[] args) {
         //Transaction bChain = new Transaction();
-        Transaction a = new Transaction("1",new Date(),"defne","rumeysa",260);
+        Transaction a = new Transaction("1",new java.util.Date(),"defne","rumeysa",260);
         Transaction b = new Transaction("2",new java.util.Date(),"rumeysa","ozgur",680);
         Transaction c = new Transaction("3",new java.util.Date(),"ozgur","defne",5000);
         Transaction d = new Transaction("4",new java.util.Date(),"ozgur","rumeysa",4200);
