@@ -1,1 +1,1 @@
-# Java-Project-For-University-Homework
+# Blockchain-Project-With-Java
